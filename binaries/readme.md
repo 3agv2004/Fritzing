@@ -1,3 +1,3 @@
 My favorite biaries are located at:
-WIN, [version 0.9.3b 64bits](https://3agv2004.info/binaries/Fritzing/fritzing.0.9.3b.64.pc "The best search engine for privacy").
-Linux, 
+WIN, [Fritzing - version 0.9.3b 64bits](https://3agv2004.info/binaries/Fritzing/fritzing.0.9.3b.64.pc.zip "The best open source for Inventors").
+Linux, in progress...
